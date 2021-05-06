@@ -1,0 +1,608 @@
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\package.json
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.StaticWebAssets.xml
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\IyzipayCore.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\SendGrid.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.Business.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.Business.pdb
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csprojAssemblyReference.cache
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryList.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditProduct.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductList.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\CheckOut.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Success.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_slider.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Details.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\List.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\GetOrders.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\UI\ContactUs.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\UI\AboutUs.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar - Copy.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\BrandList\Default.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\BrandList.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateBrand.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditBrand.cshtml.g.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\CodeCop.dll
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Endaziyar\source\repos\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\appsettings.json
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\package-lock.json
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\package.json
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.StaticWebAssets.xml
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\CodeCop.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\IyzipayCore.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\SendGrid.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.Business.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.Business.pdb
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+E:\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csprojAssemblyReference.cache
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\BrandList.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryList.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateBrand.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditBrand.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditProduct.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductList.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\CheckOut.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\GetOrders.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Success.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\BrandList\Default.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar - Copy.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_slider.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Details.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\List.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\UI\AboutUs.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\UI\ContactUs.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+E:\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\appsettings.json
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\package-lock.json
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\package.json
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.StaticWebAssets.xml
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.exe
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.deps.json
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.json
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.runtimeconfig.dev.json
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\IyzipayCore.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\SendGrid.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\StarkbankEcdsa.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.Business.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.Business.pdb
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.DataAccess.pdb
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\bin\Debug\netcoreapp3.1\ShopApp.Entities.pdb
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csprojAssemblyReference.cache
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfoInputs.cache
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.AssemblyInfo.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CoreCompileInputs.cache
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.MvcApplicationPartsAssemblyInfo.cache
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cache
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorAssemblyInfo.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.Manifest.cache
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\staticwebassets\ShopApp.WebUI.StaticWebAssets.xml
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\scopedcss\bundle\ShopApp.WebUI.styles.css
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.input.cache
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.TagHelpers.output.cache
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorCoreGenerate.cache
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\BrandList.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CategoryList.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateBrand.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateCategory.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditBrand.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditCategory.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\EditProduct.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Admin\ProductList.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\CheckOut.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\GetOrders.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Success.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\BrandList\Default.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryList\Default.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar - Copy.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_slider.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Details.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\Shop\List.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\UI\AboutUs.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\UI\ContactUs.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cache
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.RazorTargetAssemblyInfo.cs
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.Views.pdb
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.csproj.CopyComplete
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.dll
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.pdb
+D:\E diski yedek\REPOS\ShopApp\ShopApp.WEBUI\obj\Debug\netcoreapp3.1\ShopApp.WebUI.genruntimeconfig.cache
